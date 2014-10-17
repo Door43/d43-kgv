@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kgv:home|Door43 (kgv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kgv|d43-kgv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kgv/archive/master.zip|d43-kgv.zip]]
+
+**Recent Changes**
+{{changes>ns = kgv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kgv|Ethnologue data]]
+
